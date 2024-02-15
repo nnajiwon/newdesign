@@ -7,13 +7,14 @@ img{
    
 }
 body{
-    background-color:hsl(hue, saturation, lightness)
+    background-color:hsl(30,38%,92%)
     display:flex;
     border: solid transparent;
     margin-right:auto;
     margin-top: 3cm;
     padding: right 5px;
 }
+
 p{
     width: 60%;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
